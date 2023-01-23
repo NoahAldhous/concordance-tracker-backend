@@ -1,6 +1,6 @@
 import express from 'express';
 
-import {people} from './data';
+import {people} from './data.js';
 
 const app = express();
 
